@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ciberfarma</groupId>
 	<artifactId>dawi_sesion04</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Virhuez S.</name>
 	<description>Crud de usuario ciberfarma</description>
 	<properties>
